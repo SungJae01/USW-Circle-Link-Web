@@ -86,7 +86,10 @@
 
 ## 📌 Function Description
 
-### 💻 통합관리 사이트
+### 💻 통합관리 사이트 일부
+
+### 동아리 회장
+
  - 통합관리 사이트 로그인
 <img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/a9fd32d2-54c6-4c0a-b60a-86d128c614b7" />
 
@@ -94,7 +97,27 @@
 <img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/7b3e1d81-9fb2-4700-a612-2eb9abccaf04" />
 
  - 동아리 회원 관리
-<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/d1ba1f9a-3362-4373-af9c-f031b293d148" />
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/68250a89-9cdf-4e28-b417-554e638947e8" />
+
+ - 동아리 지원 관리
+<img width="1000" height="758" alt="image" src="https://github.com/user-attachments/assets/993cc8b8-d488-4b03-a9ba-1fb734d9a996" />
+
+### 동아리 관리자
+
+ - 동아리 관리
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/7c348272-ca89-4586-a399-61695bd6acc8" />
+
+ - 동아리 위치 정보 수정
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/dee84104-614a-4396-9d3f-bb91b334d06a" />
+
+ - 동아리 카테고리 설정
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/c5f1647a-303d-4d5d-b24a-4972b059d4a3" />
+
+ - 동아리 회원 추가
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/bc65aa91-675d-46ed-b8c9-b0984a72115a" />
+
+ - 공지사항 작성
+<img width="1000" height="711" alt="image" src="https://github.com/user-attachments/assets/72d81cda-50df-4315-bc43-8ae62a72502f" />
 
 
 ---
